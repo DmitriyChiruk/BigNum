@@ -1,0 +1,7 @@
+﻿  BigNum.cpp
+C:\Users\dchir\source\repos\BigNumbers\BigNumbers\BigNum.cpp(26,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dchir\source\repos\BigNumbers\BigNumbers\BigNum.cpp(39,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dchir\source\repos\BigNumbers\BigNumbers\BigNum.cpp(66,18): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\dchir\source\repos\BigNumbers\BigNumbers\BigNum.cpp(200,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dchir\source\repos\BigNumbers\BigNumbers\BigNum.cpp(231,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BigNumbers.vcxproj -> C:\Users\dchir\source\repos\BigNumbers\x64\Debug\BigNumbers.exe
